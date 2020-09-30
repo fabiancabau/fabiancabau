@@ -7,3 +7,7 @@
 - 🔭 FullStack developer, using mostly: Python (Django, Flask), JS (Node, Angular, Ionic) and Dart (Flutter)
 - 📫 Reach me at: fabiancabau@gmail.com
 - ⚡ Right now learning and working on many Flutter projects!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabiancabau&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
